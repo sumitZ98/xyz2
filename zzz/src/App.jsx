@@ -1,10 +1,12 @@
-
+import First from './components/First';
 import './App.css'
 
 function App() {
 
   return (
-    <h1>Hello world</h1>
+    <>
+    <First></First>
+    </>
   )
 }
 
